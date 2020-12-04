@@ -1,2 +1,4 @@
 # DSA-CPP
-Data Structrues using STL and custom headers
+Data Structures using STL and custom headers.
+<hr>
+##Contents
