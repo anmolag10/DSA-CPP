@@ -11,4 +11,5 @@ Data Structures using STL and custom headers.
    <li>Stack</li>
    <li>Queue</li>
    <li>Binary Trees</li>
+  <li>Binary Search Trees</li>
 </ol>
